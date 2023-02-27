@@ -14,7 +14,7 @@ Analizar el funcionamiento del Interruptor controlado por luz (LDR y 741), media
 
 ## 2. MARCO TEÓRICO
 
-AQUI VAN LOS MAPAS DE LAU DE LOS COMPONENTES
+![image](https://user-images.githubusercontent.com/117778782/221691165-91fb7665-1d71-43c1-bb5c-784413dba8dd.png)
 
 ## 3. EXPLICACION DEL CIRCUITO
 

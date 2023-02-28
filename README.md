@@ -14,11 +14,23 @@ Analizar el funcionamiento del Interruptor controlado por luz (LDR y 741), media
 
 ## 2. MARCO TEÓRICO
 
-![image](https://user-images.githubusercontent.com/117778782/221691165-91fb7665-1d71-43c1-bb5c-784413dba8dd.png)
-
 ![image](https://user-images.githubusercontent.com/117778782/221750757-2c2951fd-92e4-404c-8783-94dffd65ce0e.png)
 
 ![image](https://user-images.githubusercontent.com/117778782/221750786-0a1e383e-0f5b-429f-95b6-fde9571f265d.png)
+
+![image](https://user-images.githubusercontent.com/117778782/221751854-978630c5-b80c-41ac-9bd3-941e277a4e94.png)
+
+![image](https://user-images.githubusercontent.com/117778782/221691165-91fb7665-1d71-43c1-bb5c-784413dba8dd.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -97,7 +109,7 @@ Link: https://youtu.be/5AG-xqYOkic
 
 - La utilización de fotorresintencias LDR es algo importante en dispositivos electrónicos debido a su gran campo de aplicación. Gracias al efecto fotoeléctrico que presentan los materiales con los cuales se elaboran estos componentes, podemos construir aplicaciones que dependen de la luminosidad del ambiente. Un ejemplo práctico podría ser un sistema de detección de proximidad.
 
-Un componente indispensable en este proyecto fue el potenciómetro, ya que estos son componentes electrónicos muy útiles, que actúan como divisores de voltaje en una amplia variedad de aplicaciones por su precisión y facilidad de uso. Son componentes muy versátiles que se pueden utilizar en una amplia variedad de aplicaciones, desde el control de volumen de dispositivos de audio hasta el ajuste de la temperatura de un termostato electrónico, y en nuestro caso para un detector de luz.
+- Un componente indispensable en este proyecto fue el potenciómetro, ya que estos son componentes electrónicos muy útiles, que actúan como divisores de voltaje en una amplia variedad de aplicaciones por su precisión y facilidad de uso. Son componentes muy versátiles que se pueden utilizar en una amplia variedad de aplicaciones, desde el control de volumen de dispositivos de audio hasta el ajuste de la temperatura de un termostato electrónico, y en nuestro caso para un detector de luz.
 
 ## 6. BIBLIOGRAFIA
 

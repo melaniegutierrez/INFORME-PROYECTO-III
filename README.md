@@ -16,7 +16,6 @@ Analizar el funcionamiento del Interruptor controlado por luz (LDR y 741), media
 
 ![image](https://user-images.githubusercontent.com/117778782/221691165-91fb7665-1d71-43c1-bb5c-784413dba8dd.png)
 
-![image](https://user-images.githubusercontent.com/117778782/221741459-dadd0385-e6d1-4363-90e6-da9d0b0ea52b.png)
 
 
 
